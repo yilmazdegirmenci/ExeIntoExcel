@@ -110,4 +110,3 @@ def dumpFile(filename):
 	
 if __name__ == "__main__":
     main(sys.argv[1:])
-    #stampFuzzValue(chr(255) + chr(255))
